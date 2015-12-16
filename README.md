@@ -1,4 +1,4 @@
-# ScreamingTwitter
+# Spark Twitter
 Using Spark Streaming to send tweets from Twitter Streaming API to Elasticsearch
 
 **Requirements:**
